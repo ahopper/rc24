@@ -1,5 +1,6 @@
 # rc24
-Automatically exported from code.google.com/p/rc24
+Automatically exported from code.google.com/p/rc24.
+
 Diy model radio control system based on Jennic IEEE 802.15.4 radio modules
 
 This is a diy 2.4GHz radio control project with the following features:-
